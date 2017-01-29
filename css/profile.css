@@ -1,0 +1,23 @@
+
+/*remember dot in front of class*/
+.profile-pic {
+	width:50%;
+
+}
+
+.card {
+	border: solid #2C506B 1px;
+	border radius: 4px;
+/*margin space around box*/
+	padding:15px;
+/*margin space outside box*/
+	margin: 10px;
+	box-shadow: 5px 5px 5px #C0C5C8;
+}
+
+.jumbotron{
+	background-image: url("file:///Users/alexssleung/Desktop/CodeAtUni/website2/img/20161226_121655.jpg");
+  	background-size: cover;
+  	color: white;
+  	height: 100%;
+}
