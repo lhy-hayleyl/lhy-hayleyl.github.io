@@ -16,7 +16,7 @@
 }
 
 .jumbotron{
-	background-image: url("file:///Users/alexssleung/Desktop/CodeAtUni/website2/img/20161226_121655.jpg");
+	background-image: url("../img/20161226_121655.jpg");
   	background-size: cover;
   	color: white;
   	height: 100%;
